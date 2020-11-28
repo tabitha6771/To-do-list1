@@ -1,0 +1,68 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #e6daa8;
+    background-image: url("https://cdn.pixabay.com/photo/2018/06/20/07/33/planner-3485976_1280.jpg");
+    background-size: 100% 100%;
+  }
+  .App{
+    background-color: orangered;
+    background-image: url("https://i.pinimg.com/736x/33/64/1e/33641e566a3cb829a8a53669a734d7aa.jpg");
+    background-size: 100% 100%;
+    min-height:500px;
+    width: 400px;
+    margin: 40px auto;
+    border-radius: 5%;
+  }
+  
+  #to-do-form input{
+    background-color: #363636;
+    border: 0; 
+    color: #fff;
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+    padding: 0 20px;
+    font-size: 18px;
+    border-radius: 10px;
+  }
+  #to-do-form input::placeholder{
+    color: rgba(255,255,255,0.5);
+  }
+  #to-do-form input:focus{
+    outline: none;
+  }
+  #to-do-form button{
+    height: 50px;
+    width: 80px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #363636; 
+    cursor: pointer;
+    color: #FFFFFF;
+    font-size: 22px;
+  }
+  #to-do-form button:focus{
+    outline: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
